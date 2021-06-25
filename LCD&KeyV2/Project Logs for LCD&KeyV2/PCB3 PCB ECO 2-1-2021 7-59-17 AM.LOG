@@ -1,0 +1,157 @@
+Added Component: Designator=ArduinoNano1(Arduino Nano)
+Add component (AddParameter): Name = "Value"; Value = "Cau 1A"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 102 1nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 103 10nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIP8/W0.3)
+Added Component: Designator=KF1(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=KF2(Con 2 KF301 5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 KF301-2P 5.08MM Xanh Duong"; VariantName = "[No Variations]"
+Added Component: Designator=R25(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R26(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 20k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R28(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4W 5% 120R"; VariantName = "[No Variations]"
+Added Component: Designator=R29(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R30(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 20k"; VariantName = "[No Variations]"
+Added Component: Designator=R31(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=ArduinoNano1-5V
+Added Pin To Net: NetName=RST_LCD Pin=ArduinoNano1-A0
+Added Pin To Net: NetName=EN Pin=ArduinoNano1-A1
+Added Pin To Net: NetName=D4 Pin=ArduinoNano1-A2
+Added Pin To Net: NetName=D5 Pin=ArduinoNano1-A3
+Added Pin To Net: NetName=D6 Pin=ArduinoNano1-A4
+Added Pin To Net: NetName=D7 Pin=ArduinoNano1-A5
+Added Pin To Net: NetName=Button Pin=ArduinoNano1-A7
+Added Pin To Net: NetName=Led_1 Pin=ArduinoNano1-D3
+Added Pin To Net: NetName=Led_2 Pin=ArduinoNano1-D4
+Added Pin To Net: NetName=Led_3 Pin=ArduinoNano1-D5
+Added Pin To Net: NetName=BL Pin=ArduinoNano1-D6
+Added Pin To Net: NetName=GND Pin=ArduinoNano1-GND
+Added Pin To Net: NetName=GND Pin=ArduinoNano1-GND
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=VCC Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=KF2-2
+Added Pin To Net: NetName=VCC Pin=R25-1
+Added Pin To Net: NetName=VCC Pin=R26-2
+Added Pin To Net: NetName=VCC Pin=R27-1
+Added Pin To Net: NetName=VCC Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=VCC Pin=R31-2
+Added Pin To Net: NetName=VCC Pin=R32-1
+Added Pin To Net: NetName=MAX485 Pin=ArduinoNano1-D2
+Added Pin To Net: NetName=MAX485 Pin=IC1-2
+Added Pin To Net: NetName=MAX485 Pin=IC1-3
+Added Pin To Net: NetName=MAX485 Pin=R27-2
+Added Pin To Net: NetName=MAX485 Pin=R29-2
+Added Net: Name=MAX485
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=KF1-1
+Added Pin To Net: NetName=NetIC1_6 Pin=R26-1
+Added Pin To Net: NetName=NetIC1_6 Pin=R28-1
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=KF1-2
+Added Pin To Net: NetName=NetIC1_7 Pin=R28-2
+Added Pin To Net: NetName=NetIC1_7 Pin=R30-2
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=RX Pin=ArduinoNano1-D10
+Added Pin To Net: NetName=RX Pin=IC1-1
+Added Pin To Net: NetName=RX Pin=R25-2
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=ArduinoNano1-D11
+Added Pin To Net: NetName=TX Pin=IC1-4
+Added Pin To Net: NetName=TX Pin=R32-2
+Added Net: Name=TX
+Added Pin To Net: NetName=V_Out Pin=ArduinoNano1-VIN
+Added Pin To Net: NetName=V_Out Pin=KF2-1
+Added Net: Name=V_Out
+Added Member To Class: ClassName=Sheet3 Member=Component ArduinoNano1 Arduino Nano
+Added Member To Class: ClassName=Sheet3 Member=Component C2 102
+Added Member To Class: ClassName=Sheet3 Member=Component C3 103
+Added Member To Class: ClassName=Sheet3 Member=Component IC1 MAX485
+Added Member To Class: ClassName=Sheet3 Member=Component KF1 CON 2
+Added Member To Class: ClassName=Sheet3 Member=Component KF2 CON 2
+Added Member To Class: ClassName=Sheet3 Member=Component R25 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R26 20k
+Added Member To Class: ClassName=Sheet3 Member=Component R27 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R28 120R
+Added Member To Class: ClassName=Sheet3 Member=Component R29 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R30 20k
+Added Member To Class: ClassName=Sheet3 Member=Component R31 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R32 10k

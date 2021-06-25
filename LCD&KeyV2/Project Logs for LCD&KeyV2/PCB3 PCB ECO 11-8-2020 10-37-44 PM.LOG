@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=Nut_1 Pin=BT?-1
+Removed Pin From Net: NetName=Nut_1 Pin=BT?-1
+Removed Pin From Net: NetName=NetBT?_2 Pin=BT?-2
+Removed Pin From Net: NetName=NetBT?_2 Pin=BT?-2
+Removed Pin From Net: NetName=Nut_3 Pin=D?-1
+Removed Pin From Net: NetName=GND Pin=D?-2
+Removed Pin From Net: NetName=NetBT?_2 Pin=R?-1
+Removed Member From Class: ClassName=Sheet3 Member=BT?
+Removed Member From Class: ClassName=Sheet3 Member=D?
+Removed Member From Class: ClassName=Sheet3 Member=J?
+Change Component Footprint: Designator=R? Old Footprint=tro vach 1/4w New Footprint=tro vach 1/2w
+Change component parameters: Designator = "R?" ("R?"); Footprint = "tro vach 1/4w"; UniqueID = "\TVQUABKB" ("\TVQUABKB")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 10k"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW-4P-B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW-4P-B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW-4P-B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW-4P-B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT?_2 Pin=L?-1
+Added Pin To Net: NetName=NetBT?_2 Pin=R?-1
+Added Pin To Net: NetName=Nut_1 Pin=R?-1
+Added Pin To Net: NetName=Nut_2 Pin=R?-1
+Added Pin To Net: NetName=Nut_3 Pin=R?-1
+Added Pin To Net: NetName=Nut_4 Pin=R?-1
+Added Pin To Net: NetName=Nut_5 Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=Nut_1 Pin=SW?-2
+Added Pin To Net: NetName=Nut_2 Pin=SW?-2
+Added Pin To Net: NetName=Nut_3 Pin=SW?-2
+Added Pin To Net: NetName=Nut_4 Pin=SW?-2
+Added Pin To Net: NetName=Nut_5 Pin=SW?-2
+Added Pin To Net: NetName=Nut_1 Pin=SW?-3
+Added Pin To Net: NetName=Nut_2 Pin=SW?-3
+Added Pin To Net: NetName=Nut_3 Pin=SW?-3
+Added Pin To Net: NetName=Nut_4 Pin=SW?-3
+Added Pin To Net: NetName=Nut_5 Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-4
+Change Net Name : Old Net Name=NetBT?_2 New Net Name=NetL?_1
+Added Member To Class: ClassName=Sheet3 Member=Component IC? 74HC595
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet3 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet3 Member=Component SW? SW-4P-B
+Added Member To Class: ClassName=Sheet3 Member=Component SW? SW-4P-B
+Added Member To Class: ClassName=Sheet3 Member=Component SW? SW-4P-B
+Added Member To Class: ClassName=Sheet3 Member=Component SW? SW-4P-B

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=Led_1 Pin=ArduinoNano1-D3
+Removed Pin From Net: NetName=Led_2 Pin=ArduinoNano1-D4
+Removed Pin From Net: NetName=Led_3 Pin=ArduinoNano1-D5
+Added Component: Designator=IC2(DIP16/W0.3)
+Add component (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Led_7 Pin=IC2-1
+Added Pin To Net: NetName=Led_6 Pin=IC2-2
+Added Pin To Net: NetName=Led_5 Pin=IC2-3
+Added Pin To Net: NetName=Led_4 Pin=IC2-4
+Added Pin To Net: NetName=Led_3 Pin=IC2-5
+Added Pin To Net: NetName=Led_2 Pin=IC2-6
+Added Pin To Net: NetName=Led_1 Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=VCC Pin=IC2-10
+Added Pin To Net: NetName=GND Pin=IC2-13
+Added Pin To Net: NetName=Led_8 Pin=IC2-15
+Added Pin To Net: NetName=VCC Pin=IC2-16
+Added Pin To Net: NetName=CLK Pin=ArduinoNano1-D4
+Added Pin To Net: NetName=CLK Pin=IC2-11
+Added Net: Name=CLK
+Added Pin To Net: NetName=DATA Pin=ArduinoNano1-D5
+Added Pin To Net: NetName=DATA Pin=IC2-14
+Added Net: Name=DATA
+Added Pin To Net: NetName=LAT_LED Pin=ArduinoNano1-D3
+Added Pin To Net: NetName=LAT_LED Pin=IC2-12
+Added Net: Name=LAT_LED
+Added Member To Class: ClassName=Sheet3 Member=Component IC2 74HC595

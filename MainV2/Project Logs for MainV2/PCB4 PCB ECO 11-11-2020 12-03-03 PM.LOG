@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=19 Pin=JP1-4
+Added Pin To Net: NetName=19 Pin=JP2-4
+Added Net: Name=19
+Added Pin To Net: NetName=20 Pin=JP1-16
+Added Pin To Net: NetName=20 Pin=JP2-16
+Added Net: Name=20

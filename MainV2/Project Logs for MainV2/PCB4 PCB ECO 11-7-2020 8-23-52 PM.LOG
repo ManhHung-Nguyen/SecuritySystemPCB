@@ -1,0 +1,6 @@
+Added Component: Designator=SW?(SW4)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component J? KF2
+Added Member To Class: ClassName=Sheet4 Member=Component J? KF6
+Added Member To Class: ClassName=Sheet4 Member=Component SW? SW-4P-B
+Added Member To Class: ClassName=Sheet4 Member=Component SW? SW

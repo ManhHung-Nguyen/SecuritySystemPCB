@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RL_1 Pin=ARD1-6
+Removed Pin From Net: NetName=RL_2 Pin=ARD1-7
+Removed Pin From Net: NetName=RL_3 Pin=ARD1-8
+Removed Pin From Net: NetName=RL_4 Pin=ARD1-9
+Added Pin To Net: NetName=RL_4 Pin=ARD1-6
+Added Pin To Net: NetName=RL_3 Pin=ARD1-7
+Added Pin To Net: NetName=RL_2 Pin=ARD1-8
+Added Pin To Net: NetName=RL_1 Pin=ARD1-9
+Added Member To Class: ClassName=Sheet4 Member=Component RN2 4K7

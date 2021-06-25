@@ -1,0 +1,12 @@
+Added Component: Designator=Q?(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "TIP41"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW4)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component J? KF3
+Added Member To Class: ClassName=Sheet4 Member=Component J? KF6
+Added Member To Class: ClassName=Sheet4 Member=Component Q? H1061
+Added Member To Class: ClassName=Sheet4 Member=Component Q? C9014
+Added Member To Class: ClassName=Sheet4 Member=Component SW? SW-4P-B
+Added Member To Class: ClassName=Sheet4 Member=Component SW? SW

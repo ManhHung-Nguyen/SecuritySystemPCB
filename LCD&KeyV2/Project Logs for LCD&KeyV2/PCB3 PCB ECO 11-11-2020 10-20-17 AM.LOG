@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=Nut_1 Pin=R?-1
+Removed Pin From Net: NetName=Nut_2 Pin=R?-1
+Removed Pin From Net: NetName=Nut_3 Pin=R?-1
+Removed Pin From Net: NetName=Nut_4 Pin=R?-1
+Removed Pin From Net: NetName=Nut_5 Pin=R?-1
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Change Component Designator: OldDesignator=L? NewDesignator=L8
+Change Component Designator: OldDesignator=LCD? NewDesignator=LCD1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=SW? NewDesignator=SW5
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_1
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL5_1
+Change Net Name : Old Net Name=NetLCD?_3 New Net Name=NetLCD1_3
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R2-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=R3-1
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=R4-1
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=R6-1
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL7_1 Pin=R7-1
+Added Net: Name=NetL7_1
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=NetL8_1 Pin=R8-1
+Added Net: Name=NetL8_1
+Added Member To Class: ClassName=Sheet3 Member=Component IC1 74HC595
+Added Member To Class: ClassName=Sheet3 Member=Component L1 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L2 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L3 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L4 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L5 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L6 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component L8 LED 3mm
+Added Member To Class: ClassName=Sheet3 Member=Component R1 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R3 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R4 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R5 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R6 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R7 220R
+Added Member To Class: ClassName=Sheet3 Member=Component R8 220R
+Added Member To Class: ClassName=Sheet3 Member=Component SW1 SW-4P-B
+Added Member To Class: ClassName=Sheet3 Member=Component SW2 SW-4P-B
+Added Member To Class: ClassName=Sheet3 Member=Component SW4 SW-4P-B
+Added Member To Class: ClassName=Sheet3 Member=Component SW5 SW-4P-B
